@@ -4,4 +4,7 @@ int main()
 {
 	cout << "Hello World" << endl;
 	cout << "Hi Bro\n" << endl;
+
+	cout << "Apples" << endl;
+
 }
